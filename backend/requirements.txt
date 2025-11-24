@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+easyocr
+opencv-python-headless
+pillow
+python-multipart
+aiofiles
+python-dotenv
+pydantic
+cryptography

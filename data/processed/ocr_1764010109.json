@@ -1,0 +1,25 @@
+{
+  "preview_image": "preview_1764010109.png",
+  "ocr": [
+    {
+      "bbox": [
+        [
+          2,
+          2
+        ],
+        [
+          295,
+          2
+        ],
+        [
+          295,
+          34
+        ],
+        [
+          2,
+          34
+        ]
+      ],
+      "text": "Processes with Disk Activity",
+      "conf": 0.6672792924985357,
+      "low_confidence": 
